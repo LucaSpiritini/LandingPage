@@ -1,17 +1,17 @@
 import React from 'react'
 import Box from '@mui/material/Box'
 import Header from '../components/Header/Header'
-import Hero from '../components/Hero/Hero'
+import TurnosComponent from '../components/Turnos/TurnosComponent'
 import Footer from '../components/Footer/Footer'
 
-const Home = () => {
+const TurnosScreen = () => {
   return (
     <Box>
       <Header />
-      <Hero />
+      <TurnosComponent />
       <Footer />
     </Box>
   )
 }
 
-export default Home
+export default TurnosScreen

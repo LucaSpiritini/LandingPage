@@ -1,0 +1,12 @@
+.logo-box {
+  background-color: transparent;
+}
+
+.logo {
+  /* background-color: red; */
+  border-bottom: 1px solid grey;
+  font-Size: 20px;
+  color: grey;
+  margin-Left: 20px;
+  user-select: none;
+}

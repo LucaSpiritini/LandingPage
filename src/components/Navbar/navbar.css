@@ -1,0 +1,14 @@
+.navbar-link-box {
+  align-items: center;
+  display: flex;
+  margin-right: 20px;
+}
+
+.link-button {
+  font-family: "Roboto";
+  line-height: 22px;
+  text-transform: capitalize;
+  display: flex;
+  padding: 10px;
+  cursor: pointer;
+}

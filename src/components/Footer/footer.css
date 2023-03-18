@@ -1,0 +1,12 @@
+.footer-box{
+  width: 100%;
+  border-top: 1px solid #000;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.group {
+  padding: 20px;
+  color: grey;
+}

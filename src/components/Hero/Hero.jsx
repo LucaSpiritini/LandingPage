@@ -1,8 +1,13 @@
 import React from 'react'
+import Box from '@mui/material/Box'
+import Slider from '../Slider/Slider'
+
 
 const Hero = () => {
   return (
-    <h1>Hero</h1>
+    <Box>
+      <Slider />
+    </Box>
   )
 }
 

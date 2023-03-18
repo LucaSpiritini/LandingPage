@@ -1,17 +1,17 @@
 import React from 'react'
 import Box from '@mui/material/Box'
 import Header from '../components/Header/Header'
-import Hero from '../components/Hero/Hero'
+import ContactoComponent from '../components/Contacto/ContactoComponent'
 import Footer from '../components/Footer/Footer'
 
-const Home = () => {
+const ContactoScreen = () => {
   return (
     <Box>
       <Header />
-      <Hero />
+      <ContactoComponent />
       <Footer />
     </Box>
   )
 }
 
-export default Home
+export default ContactoScreen
